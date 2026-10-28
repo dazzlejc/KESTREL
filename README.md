@@ -2,6 +2,8 @@
 
 # KESTREL
 
+**原作者：Irsyadmr354 / KESTREL**
+
 **单文件。任意模型。任意平台。ROYAN 的工作区，非他人所有。**
 
 ```text
